@@ -16,6 +16,10 @@
   margin: 0;
 }
 
+body {
+    background-color: rgba(209, 225, 247, 0.21);;
+}
+
 .btn-primary {
   border-radius: 10px;
   background-color: #4e47ff;
@@ -23,6 +27,7 @@
   color: #ffffff;
   font-weight: 700;
   border: none;
+  font-family: "Raleway", sans-serif;
 }
 
 .section-title {

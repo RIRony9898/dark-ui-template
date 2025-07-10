@@ -1,0 +1,56 @@
+.get-in-touch-container {
+  max-width: 1140px;
+  margin: 100px auto;
+  padding: 70px 0;
+}
+
+.get-in-touch {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 115px;
+}
+
+.get-in-touch h2 {
+  font-size: 97px;
+  font-weight: 700;
+  color: #252432;
+  /* max-width: 528px; */
+  width: 50%;
+}
+
+.get-in-touch-form{
+    width: 50%;
+}
+
+.get-in-touch-form form {
+  /* width: 40%; */
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.get-in-touch-form label {
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  /* margin-bottom: 20px; */
+}
+
+.get-in-touch-form input,
+.get-in-touch-form textarea {
+  width: 80%;
+  padding: 16px 20px;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.get-in-touch-form::placeholder {
+  color: #00000080;
+  font-size: 20px;
+}
+
+.get-in-touch-btn {
+    width: 90%;
+}
