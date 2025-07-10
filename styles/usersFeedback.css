@@ -48,7 +48,7 @@
     border-radius: 50%;
 }
 
-.card-author-name{
+.card-author-name, .review-date{
     font-size: 16px;
     font-weight: 600;
     color: #757575;
